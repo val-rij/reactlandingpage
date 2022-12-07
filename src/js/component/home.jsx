@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./navbar";
 import Jumbotron from "./jumbatron";
-import Footer from ".footer";
+import Footer from ".footer.js";
 
 //create your first component
 const Home = () => {
